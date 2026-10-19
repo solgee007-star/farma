@@ -1,0 +1,7 @@
+{
+  "name": "햇살 가득 초록 농장 (Green Harvest Farm)",
+  "description": "작물을 심고 수확하며 귀여운 가축을 기르고 가공품을 만들어 나만의 평화로운 농장을 키워가는 힐링 타이쿤 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
